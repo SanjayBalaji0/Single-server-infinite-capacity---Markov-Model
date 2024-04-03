@@ -1,4 +1,4 @@
-# Single server with infinite capacity (M/M/1):(oo/FIFO)
+# EX: 4: Single server with infinite capacity (M/M/1):(oo/FIFO)
 # NAME : S.Sanjay Balaji
 # REGISTER NUMBER : 212223240149
 ## Aim :
